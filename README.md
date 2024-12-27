@@ -46,7 +46,7 @@ apt-get -y install php unzip git wget
 
 ```
 git clone https://github.com/fahimciphers/Location-Hack
-cd hound
+cd Location-Hack
 bash hound.sh
 ```
 ## Change log:
